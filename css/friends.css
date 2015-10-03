@@ -1,0 +1,31 @@
+#lists{
+    float: left;
+    position: relative;
+    left: 50px;
+}
+
+.list_header{
+    position: relative;
+    color: white;
+    font-size: 35px;
+    left: 30px;
+    text-transform: uppercase;
+}
+
+#friends{
+    float: left;
+}
+
+.friends_item{
+    float: top;
+    position: relative;
+    left: 30px;
+    color: white;
+    font-size: 20px;
+    border-style: solid;
+    border-color:white;
+    background-color: #2a33ff;
+    width: 260px;
+    height: 100px;
+    padding: 5px;
+}
